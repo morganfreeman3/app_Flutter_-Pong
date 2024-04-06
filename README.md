@@ -11,9 +11,9 @@ Questa applicazione Flutter utilizza il Bluetooth Low Energy per connettersi a d
 
 ## Utilizzo
 ### Schermata di collegamento
-![User interface](./prima schermata.PNG "User interface")
+![User interface](./prima%20schermata.PNG "User interface")
 
 ### Schermata di gioco
-![User interface](./seconda schemrata2 "Playing interface")
+![Playing_interface](./seconda%20schemrata2.jpg "Playing interface")
 
 
