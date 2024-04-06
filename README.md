@@ -9,4 +9,11 @@ Questa applicazione Flutter utilizza il Bluetooth Low Energy per connettersi a d
 - Logica del gioco Pong con gestione dei movimenti di palla e mattoni.
 - Ricezione e invio di dati tramite connessione BLE.
 
+## Utilizzo
+### Schermata di collegamento
+![User interface](./prima schermata.PNG "User interface")
+
+### Schermata di gioco
+![User interface](./seconda schemrata2 "Playing interface")
+
 
